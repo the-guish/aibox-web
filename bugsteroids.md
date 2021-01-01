@@ -26,7 +26,7 @@ Javascript:
 
 Python:
 
-[https://repl.it/@theguish/hello-bugsteroids]
+<https://repl.it/@theguish/hello-bugsteroids>
 
 
 Rust:
