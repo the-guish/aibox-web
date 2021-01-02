@@ -15,6 +15,8 @@ You can start with a simple mission called "oneshot".
 
 After getting it done you could change map from "oneshot" to "random" and see how it goes.
 
+![a spaceship shooting asteroids](bugsteroids_screenshot.png)
+
 
 Play it with...
 
