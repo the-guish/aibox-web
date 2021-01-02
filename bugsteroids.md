@@ -18,20 +18,20 @@ After getting it done you could change map from "oneshot" to "random" and see ho
 
 Play it with...
 
-Haskell:
-
-Java:
-
-<https://repl.it/@theguish/hello-bugsteroids-java>
-
-Javascript:
-
-Python:
-
-<https://repl.it/@theguish/hello-bugsteroids>
+Haskell->
 
 
-Rust:
+Java -> <https://repl.it/@theguish/hello-bugsteroids-java>
+
+
+Javascript ->
+
+
+Python -> <https://repl.it/@theguish/hello-bugsteroids>
+
+
+Rust ->
+
 
 See more info at: [About this project](about-this-project.md)
   
