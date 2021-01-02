@@ -21,6 +21,7 @@ Play it with...
 Haskell:
 
 Java:
+<https://repl.it/@theguish/hello-bugsteroids-java>
 
 Javascript:
 
