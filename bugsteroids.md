@@ -33,6 +33,9 @@ Python -> <https://repl.it/@theguish/hello-bugsteroids-py>
 Rust ->
 
 
+Any language -> REST API
+
+
 See more info at: [About this project](about-this-project.md)
   
 Feedback and feature suggestions are welcome at: <https://discord.gg/3gdYJGYvQY>
