@@ -24,7 +24,7 @@ Haskell->
 Java -> <https://repl.it/@theguish/hello-bugsteroids-java>
 
 
-Javascript ->
+Javascript -> <https://repl.it/@theguish/hello-bugsteroids-js>
 
 
 Python -> <https://repl.it/@theguish/hello-bugsteroids-py>
