@@ -31,3 +31,7 @@ Python:
 
 Rust:
 
+See more info at: <about-this-project>
+  
+Feedback and feature suggestions are welcome at: <https://discord.gg/3gdYJGYvQY>
+
