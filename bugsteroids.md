@@ -18,7 +18,7 @@ After getting it done you could change map from "oneshot" to "random" and see ho
 
 Play it with...
 
-Haskell->
+Haskell-> (coming some day)
 
 
 Java -> <https://repl.it/@theguish/hello-bugsteroids-java>
@@ -30,10 +30,10 @@ Javascript -> <https://repl.it/@theguish/hello-bugsteroids-js>
 Python -> <https://repl.it/@theguish/hello-bugsteroids-py>
 
 
-Rust ->
+Rust -> (coming some day)
 
 
-Any language -> REST API
+Any language -> HTTP API (the game server is accessible by http + json. doc coming some day)
 
 
 See more info at: [About this project](about-this-project.md)
