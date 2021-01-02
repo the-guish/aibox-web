@@ -13,7 +13,7 @@ Players will be able to code with their usual desktop tools.
 
 Code submissions could be done by pushing with git. 
 
-Server runtime environment will be built with docker images allowing more freedom and speed to include new languages or libraries. 
+Server runtime environment will be built with docker images allowing freedom and speed to include new languages or libraries. 
 
 ## feedback on results
 All data from matches will be available for download by API. 
