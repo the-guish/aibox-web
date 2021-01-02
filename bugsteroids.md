@@ -27,7 +27,7 @@ Java -> <https://repl.it/@theguish/hello-bugsteroids-java>
 Javascript ->
 
 
-Python -> <https://repl.it/@theguish/hello-bugsteroids>
+Python -> <https://repl.it/@theguish/hello-bugsteroids-py>
 
 
 Rust ->
